@@ -8,4 +8,4 @@ carrots
 cereal
 cucumber
 eggplants
-walnuts
+English walnuts
